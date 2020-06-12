@@ -2,32 +2,31 @@
 Python,Data Science,Machine Learning
 ## Libraries
 
-import pandas as pd
-from pandas.plotting import scatter_matrix
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas_profiling
-import random
-import pickle
-from sklearn.model_selection import StratifiedKFold
-from sklearn import model_selection
-from sklearn.model_selection import train_test_split
-from sklearn import ensemble
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.naive_bayes import GaussianNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.pipeline import Pipeline
-from sklearn.model_selection import cross_val_score
-from sklearn.svm import SVC
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
-from statsmodels.graphics.gofplots import qqplot
-%matplotlib inline
-from matplotlib import pyplot
+* pandas 
+* scatter_matrix
+* numpy 
+* matplotlib.pyplot 
+* seaborn
+* pandas_profiling
+* random
+* pickle
+* tratifiedKFold
+* model_selection
+* train_test_split
+* ensemble
+* LogisticRegression
+* DecisionTreeClassifier
+* LinearDiscriminantAnalysis
+* GaussianNB
+* LogisticRegression
+* KNeighborsClassifier
+* RandomForestRegressor
+* Pipeline
+* cross_val_score
+* SVC
+* qqplot
+* %matplotlib inline
+* pyplot
 
 ## Business Problem
 
