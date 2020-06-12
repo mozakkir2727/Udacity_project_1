@@ -37,9 +37,9 @@ I have install the Python 3.6 version and import the library as following.
 * pyplot\
 
 ## Motivations
-* Business Problem
+* Business Problem :- 
 There is an ever-increasing focus on effective recruitment. An organization invests a lot of its time and resources in search of the potential candidates. The investment become loses if the selected candidates do not join the organization in the end.
-* Objective
+* Objective :- 
 The objective of the analysis is to predict whether the dependent variable is to classify whether the potential customer will join with the organization or not? 
 
 ## File Desriptions
