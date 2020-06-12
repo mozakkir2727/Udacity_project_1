@@ -45,11 +45,6 @@ Pose at least three questions related to business or real-world applications of 
 
 3. Difficulty to obtain a candidate's profile and employment records as the information is confidential and not easily available.
 
-
-## Summary
-I attached the summary image
- 
-
 ## Acknowledgements
 Attached the data set
 Thank you to the Udacity team for creating this project and associated lessons.
