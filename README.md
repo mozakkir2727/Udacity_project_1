@@ -9,54 +9,36 @@ Python,Data Science,Machine Learning
 
 ## Installations
 I have install the Python 3.6 version and import the library as following.
+1.	Libraries:
+2.	Pandas.
+3.	Scikit-learn.
+4.	numpy.
+5.	matplotlib.
+6.	seaborn.
 
-* pandas 
-* scatter_matrix
-* numpy 
-* matplotlib.pyplot 
-* seaborn
-* pandas_profiling
-* random
-* pickle
-* tratifiedKFold
-* model_selection
-* train_test_split
-* ensemble
-* LogisticRegression
-* DecisionTreeClassifier
-* LinearDiscriminantAnalysis
-* GaussianNB
-* LogisticRegression
-* KNeighborsClassifier
-* RandomForestRegressor
-* Pipeline
-* cross_val_score
-* SVC
-* qqplot
-* %matplotlib inline
-* pyplot\
 
 ## Motivations
-* Business Problem :- 
-There is an ever-increasing focus on effective recruitment. An organization invests a lot of its time and resources in search of the potential candidates. The investment become loses if the selected candidates do not join the organization in the end.
-* Objective :- 
-The objective of the analysis is to predict whether the dependent variable is to classify whether the potential customer will join with the organization or not? 
+This is an Udacity Nanodegree project For this project, I am in using Stack Overflow data from 2017 to better understand
+## a) Business Problem :- 
+For this project, I am using Stack Overflow data from 2017 to better understand:
+As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:
+1.	What is the salary difference in the western world and in the eastern world?
+2.	Are there more jobs opportunity in the western world than that in the eastern world?
+3.	How are the programmers satisfying about their job between these two sides of the world?
+
+## b)Prepare data:
+The data comes from the stack overflow 2017 survey .It contains data that comes as numerical, categorical and text. It has missing values and outliers as well. the rows are the different respondants to the survey, and the columns are the answer to the survey questions. .
+
+## c) Build Model:
+I graphed different behaviors that were relevant to the above three questions, with the python libraries matplotlib and seaborn.
+
 
 ## File Desriptions
-Pose at least three questions related to business or real-world applications of how the data could be used.
-
-1. The recruiters need to identify the chances of the potential candidates of joining the organization even before shortlisting their resumes for the interview process.
-
-2. Numerous factors that can make a candidate back out from the job he/she is being selected for.
-
-3. Difficulty to obtain a candidate's profile and employment records as the information is confidential and not easily available.
-
+The notebook available here showcases work related to the above questions.
 ## Acknowledgements
 Attached the data set
 Thank you to the Udacity team for creating this project and associated lessons.
 
 ## Results
-The prediction accuracy is 100%.
-Precision and Recall are also 100%.
-By the results, the predictions appear to be more biased. So we shall consider Logistic regression as better option for out problem.
 
+The main findings of the code can be found at the post available here.
