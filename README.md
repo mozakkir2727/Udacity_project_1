@@ -41,4 +41,4 @@ Thank you to the Udacity team for creating this project and associated lessons.
 
 ## Results
 
-The main findings of the code can be found at the post available [website].(https://medium.com/@mozakkir2727/three-reasons-why-you-should-pursue-your-programmer-career-in-the-western-world-94ce0341a377)
+The main findings of the code can be found at the post available [here](https://medium.com/@mozakkir2727/three-reasons-why-you-should-pursue-your-programmer-career-in-the-western-world-94ce0341a377)
